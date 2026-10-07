@@ -22,7 +22,7 @@ botaoModo . addEventListener("click", () => {
         document.body.style.background = "";
         document.body.style.color = "";
     } else {
-        document.body.style.background = "black";
+        document.body.style.background = "aqua";
         document.body.style.color = "white";
     }
 });
